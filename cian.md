@@ -1,7 +1,8 @@
 # Приватные API / [Cian.ru](https://cian.ru/)
 [![Telegram: @Kolsha](https://img.shields.io/badge/contact-@Kolsha-blue.svg?style=flat)](https://t.me/Kolsha)
 
-API работает.
+API работает. \
+[Демо](https://kolsha.ru/apis/cian/).
 
 ### Список методов
 Метод | Описание | Статус 

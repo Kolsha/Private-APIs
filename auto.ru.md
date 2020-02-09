@@ -1,7 +1,8 @@
 # Приватные API / [Auto.ru](https://auto.ru/)
 [![Telegram: @Kolsha](https://img.shields.io/badge/contact-@Kolsha-blue.svg?style=flat)](https://t.me/Kolsha)
 
-API работает.
+API работает. \
+[Демо](https://kolsha.ru/apis/auto_ru/).
 
 ### Список методов
 Метод | Описание | Статус 
