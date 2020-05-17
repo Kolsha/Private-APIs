@@ -2,6 +2,7 @@
 [![Telegram: @Kolsha](https://img.shields.io/badge/contact-@Kolsha-blue.svg?style=flat)](https://t.me/Kolsha)
 
 API работает.
+[Демо](https://kolsha.ru/apis/avito/).
 
 ### Список методов
 Метод | Описание | Статус 
