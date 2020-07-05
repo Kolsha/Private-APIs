@@ -30,6 +30,9 @@ API | Последнее обновление | Статус
 | [Drom.ru](drom.md)           | 16 мая 2020 | в разработке|
 | [Auto.ru](auto.ru.md)         | 11 января 2020 | работает    |
 | [Номерограм](nomerogram.md)   | 3 декабря 2019  | работает    |
+| [AutoScout24](https://www.autoscout24.com) | 5 июля 2020 | работает |
+| [mobile.de](https://www.mobile.de) | 5 июля 2020 | работает |
+| [Проверка авто по VIN и ГОСНОМЕРУ](https://play.google.com/store/apps/details?id=ru.likemobile.basegibdd) | 5 июля 2020 | работает |
 
 ### Недвижимость
 API | Последнее обновление | Статус 
