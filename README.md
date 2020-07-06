@@ -33,6 +33,7 @@ API | Последнее обновление | Статус
 | [AutoScout24](https://www.autoscout24.com) | 5 июля 2020 | работает |
 | [mobile.de](https://www.mobile.de) | 5 июля 2020 | работает |
 | [Проверка авто по VIN и ГОСНОМЕРУ](https://play.google.com/store/apps/details?id=ru.likemobile.basegibdd) | 5 июля 2020 | работает |
+| [АвтоЭксперт - проверка авто по базам ГИБДД](https://play.google.com/store/apps/details?id=ru.likemobile.checkauto) | 6 июля 2020 | работает |
 
 ### Недвижимость
 API | Последнее обновление | Статус 
