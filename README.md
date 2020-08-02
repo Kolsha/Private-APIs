@@ -27,13 +27,14 @@
 ### Автомобили
 API | Последнее обновление | Статус 
 |---|---|---|
-| [Drom.ru](drom.md)           | 16 мая 2020 | в разработке|
+| [Drom.ru](drom.md)           | 16 мая 2020 | частично работает|
 | [Auto.ru](auto.ru.md)         | 11 января 2020 | работает    |
 | [Номерограм](nomerogram.md)   | 3 декабря 2019  | работает    |
 | [AutoScout24](https://www.autoscout24.com) | 5 июля 2020 | работает |
 | [mobile.de](https://www.mobile.de) | 5 июля 2020 | работает |
 | [Проверка авто по VIN и ГОСНОМЕРУ](https://play.google.com/store/apps/details?id=ru.likemobile.basegibdd) | 5 июля 2020 | работает |
 | [АвтоЭксперт - проверка авто по базам ГИБДД](https://play.google.com/store/apps/details?id=ru.likemobile.checkauto) | 6 июля 2020 | работает |
+| [Проверка авто по БАЗЕ ГИБДД по VIN и ГОСНОМЕРУ](https://play.google.com/store/apps/details?id=ru.bloodsoft.gibddchecker) | 2 августа 2020 | работает |
 
 ### Недвижимость
 API | Последнее обновление | Статус 
@@ -49,6 +50,8 @@ API | Последнее обновление | Статус
 | [Youla.ru](youla.md) | 22 марта 2019   | частично работает|
 | Ozon.ru api | 2 февраля 2020 | в разработке|
 | Sportmaster.ru api | 2 февраля 2020 | в разработке|
+| [ebay](https://www.ebay-kleinanzeigen.de) | 13 июля 2020 | работает |
+| [WILLHABEN](https://www.willhaben.at) | 26 июля 2020 | работает |
 
 
 ### Уязвимости
