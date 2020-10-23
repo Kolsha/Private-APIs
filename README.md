@@ -34,7 +34,6 @@ API | Последнее обновление | Статус
 | [mobile.de](https://www.mobile.de) | 5 июля 2020 | работает |
 | [Проверка авто по VIN и ГОСНОМЕРУ](https://play.google.com/store/apps/details?id=ru.likemobile.basegibdd) | 5 июля 2020 | работает |
 | [АвтоЭксперт - проверка авто по базам ГИБДД](https://play.google.com/store/apps/details?id=ru.likemobile.checkauto) | 6 июля 2020 | работает |
-| [Проверка авто по БАЗЕ ГИБДД по VIN и ГОСНОМЕРУ](https://play.google.com/store/apps/details?id=ru.bloodsoft.gibddchecker) | 2 августа 2020 | работает |
 
 ### Недвижимость
 API | Последнее обновление | Статус 
