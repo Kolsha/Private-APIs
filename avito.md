@@ -1,5 +1,5 @@
 # Приватные API / [Avito.ru](https://avito.ru/)
-[![Telegram: @Kolsha](https://img.shields.io/badge/contact-@Kolsha-blue.svg?style=flat)](https://t.me/Kolsha)
+# API больше не актуальны, не нужно мне писать
 
 API работает.
 [Демо](https://kolsha.ru/apis/avito/).

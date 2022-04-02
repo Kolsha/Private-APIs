@@ -1,5 +1,5 @@
 # Приватные API / [Youla.ru](https://youla.ru)
-[![Telegram: @Kolsha](https://img.shields.io/badge/contact-@Kolsha-blue.svg?style=flat)](https://t.me/Kolsha)
+# API больше не актуальны, не нужно мне писать
 
 API работает.
 
